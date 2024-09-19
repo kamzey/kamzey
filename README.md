@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**kamzey/kamzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦋🦋🦋🦋
+### Zeynep's Profile
+*(pronounced Zai-nap)*\
+\
+Originally a biomedical engineer but I do love all things coding even if they're not biomedical...\
+EXCELLENT in **Python**!!! Especially data science and data manipulation libraries.\
+\
+Jokes aside I do have quite a bit of experience with...\
+... pandas, numpy, Dask \
+... PyTorch, statsmodels, scipy\
+... Apache Airflow\
+... Docker\
+... MATLAB for signal processing\
+\
+Unfortunately Git was a skill learned later on in life and work code isn't open source so not many quality repos (yet!).\
+\
+Currently working on STEMCupid which is a web application that scrapes job boards to find you jobs in two differrent professions within a certain distance of each other. Name is pretty self-explanatory imo.\
+\
+Hope to see you again!!!\
+\
+🦋🦋🦋🦋
