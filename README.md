@@ -2,10 +2,9 @@
 ### Zeynep's Profile
 *(pronounced Zai-nap)*\
 \
-Originally a biomedical engineer but I do love all things coding even if they're not biomedical...\
-*EXCELLENT* in **Python**!!! Especially data science and data manipulation libraries.\
+Originally a biomedical engineer but I do love all things coding even if they're not biomedical.
 \
-Jokes aside I do have quite a bit of experience with...\
+I have quite a bit of experience with...\
 ... pandas, numpy, Dask \
 ... PyTorch, statsmodels, scipy\
 ... Apache Airflow\
