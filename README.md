@@ -13,7 +13,7 @@ I have quite a bit of experience with...\
 \
 Unfortunately Git was a skill learned later on in life and work code isn't open source so not many quality repos (yet!).\
 \
-Currently working on STEMCupid which is a web application that scrapes job boards to find you jobs in two differrent professions within a certain distance of each other. Name is pretty self-explanatory imo.\
+Currently working on STEMCupid which is a web application that scrapes job boards to find you jobs in two differrent professions within a certain distance of each other.\
 \
 Hope to see you again!!!\
 \
